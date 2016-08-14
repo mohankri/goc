@@ -38,7 +38,7 @@ int
 main()
 {
 	int j;
-	//int arr[] = {5, 4, 100, 7, 6, 20, 35};
+	//int arr[] = {5, 4, 100, 7, 6, 20, 8};
 	int arr[] = {1, 5, 9, 10, 7};
 	int n = sizeof(arr)/sizeof(arr[0]);
 
